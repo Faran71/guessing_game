@@ -9,6 +9,5 @@ public class GuessingGame {
         } else {
             System.out.println("Guess is too low");
         }
-
     }
 }
